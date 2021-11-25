@@ -1,4 +1,4 @@
-# GC-BAP
+# GC-BAP (WIP)
 
 Graduate Certificate for Business Analytics Practice (NUSS-ISS)
 
